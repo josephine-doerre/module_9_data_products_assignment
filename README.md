@@ -1,5 +1,6 @@
 # module_9_data_products_assignment
 
-# this repo contains the r code files for the application 
+This repository contains the r code files (ui.R, server.R) for the application "Sample Size Calculation".
 
-Sample Size Calculation
+Link to the application on shiny server:
+https://biophiliaa.shinyapps.io/FinalAssignmentDDP/
